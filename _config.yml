@@ -1,0 +1,28 @@
+name: Fermoy St. Patrick's Day Parade
+favicon: null
+layout_spectrum: 0.20033584255725145
+typography_spectrum: 0.25988211343064904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.555150342406705
+  lightness: 0.34059323789551854
+  saturation: 0.016231518937274814
+  rhythmicContrast: 0.5419827413279563
+purpose: []
