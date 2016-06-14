@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Fermoy, The Place To Be'
-datePublished: '2016-06-14T23:47:19.263Z'
-dateModified: '2016-06-14T23:47:02.340Z'
+datePublished: '2016-06-14T23:52:18.792Z'
+dateModified: '2016-06-14T23:51:05.047Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-14-fermoy-the-place-to-be.md
